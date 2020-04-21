@@ -1,0 +1,9 @@
+E:\Facultate\CN\Tema3\Tema3\bin\Debug\Tema3.exe.config
+E:\Facultate\CN\Tema3\Tema3\bin\Debug\Tema3.exe
+E:\Facultate\CN\Tema3\Tema3\bin\Debug\Tema3.pdb
+E:\Facultate\CN\Tema3\Tema3\obj\Debug\Tema3.csprojAssemblyReference.cache
+E:\Facultate\CN\Tema3\Tema3\obj\Debug\Tema3.Form1.resources
+E:\Facultate\CN\Tema3\Tema3\obj\Debug\Tema3.Properties.Resources.resources
+E:\Facultate\CN\Tema3\Tema3\obj\Debug\Tema3.csproj.GenerateResource.cache
+E:\Facultate\CN\Tema3\Tema3\obj\Debug\Tema3.exe
+E:\Facultate\CN\Tema3\Tema3\obj\Debug\Tema3.pdb
